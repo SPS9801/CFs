@@ -1,0 +1,26 @@
+Company Internal Document
+
+Employee Name: Siddharth Pagare
+Username: siddharth
+Password: Admin@123
+
+Admin Panel Login Details
+admin
+login
+
+Email Accounts:
+user@gmail.com
+support@example.com
+
+Web Links:
+http://example.com
+https://example.com
+https://admin.example.com
+
+Project Notes:
+The secret project folder is located in D:\Projects\secret
+
+Database Username:
+username: dbadmin
+
+End of File
